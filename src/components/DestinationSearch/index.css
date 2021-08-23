@@ -1,0 +1,17 @@
+.image {
+  width: 300px;
+  height: 250px;
+}
+
+.name {
+  font-family: roboto;
+  font-size: larger;
+  color: #252627;
+  font-size: 20px;
+  padding-top: 5px;
+}
+
+.listitem {
+  height: 300px;
+  width: 300px;
+}
